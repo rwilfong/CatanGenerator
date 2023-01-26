@@ -1,0 +1,1 @@
+This folder contains images of the number and resource tokens for Catan.
